@@ -10,7 +10,9 @@ Finally, some visualisation graphs are made to analyse features correlation and 
 Provided data:
 
 car.names -> 'READ ME' text with description of features
+
 car.features -> Features data
+
 car.labels -> Labels data
 
 
